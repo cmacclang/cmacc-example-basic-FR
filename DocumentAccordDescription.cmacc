@@ -1,0 +1,7 @@
+// Parametres
+
+$ description_Du_Projet = "...rentrer la description du projet..."
+
+// Document
+
+Les partis ont décidé de travail ensemble sur {{description_Du_Projet}}.

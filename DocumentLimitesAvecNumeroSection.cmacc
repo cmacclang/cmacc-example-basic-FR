@@ -1,0 +1,13 @@
+// Parametres
+
+$ xnum = "Section xnum"
+
+$ xnum_Description_Projet = "...reference à la Section qui décrit le projet..."
+
+$ duree_Accord = "...rentrer ici la duree de l'accord..."
+
+// Document
+
+### {{xnum}}
+
+Cet accord est pour le projet comme defini dans la {{xnum_Description_Projet}}, et est pour une durée de {{duree_Accord}} à compter de la date de signature.

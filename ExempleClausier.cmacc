@@ -1,0 +1,7 @@
+// liste des fichiers appeles
+
+$ limites_Territoire = [./Clausier.cmacc]
+
+// Document
+
+{{limites_Territoire.territoire_France}}

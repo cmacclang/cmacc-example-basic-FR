@@ -1,0 +1,11 @@
+// Parametres
+
+$ xnum = "Section xnum"
+
+$ description_Du_Projet = "...rentrer la description du projet..."
+
+// Document
+
+### {{xnum}}
+
+Les parties ont décidé de travail ensemble sur {{description_Du_Projet}}.

@@ -1,0 +1,17 @@
+// Parametres
+
+$ nom_Partie1 = "...entrer le nom du partie 1..."
+
+$ nom_Partie2 = "...entrer le nom du partie 2..."
+
+// Document
+
+Cet accord est un accord de partenariat entre:
+
+{{nom_Partie1}}, ci-après "Partenaire Principal",
+
+et 
+
+{{nom_Partie2}}, ci-après "Partenaire Sous-traitant",
+
+collectivement les "parties" ou "Parties".

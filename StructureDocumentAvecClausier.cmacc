@@ -1,0 +1,19 @@
+// fichiers appeles
+
+$ intro = [./DocumentIntro.cmacc]
+
+$ description_Accord = [./DocumentAccordDescription.cmacc]
+
+$ limites_Duree = [./DocumentLimitesDuree.cmacc]
+
+$ limites_Territoire = [./Clausier.cmacc]
+
+// Document
+
+{{intro}}
+
+{{description_Accord}}
+
+{{limites_Duree}}
+
+{{limites_Territoire.territoire_France}}

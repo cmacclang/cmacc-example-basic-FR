@@ -1,0 +1,7 @@
+// Parametres
+
+$ duree_Accord = "...rentrer ici la duree de l'accord..."
+
+// Document
+
+Cet accord est pour une durée de {{duree_Accord}} à compter de la date de signature.

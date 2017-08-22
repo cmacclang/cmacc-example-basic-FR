@@ -1,0 +1,6 @@
+// Parametres
+// Ici differentes options qui pourront etre appelees dans d'autres sections
+
+$ territoire_France = "Cet accord ne couvre que le territoire français"
+
+$ territoire_Global = "Cet accord couvre le monde entier"

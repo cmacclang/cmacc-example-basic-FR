@@ -1,0 +1,7 @@
+// Nom de la personne
+$ nom = "...rentrer un nom..."
+
+// Ville ou habite la personne
+$ ville = "...rentrer une ville..."
+
+Mon nom est {{nom}} et je vis à {{ville}}

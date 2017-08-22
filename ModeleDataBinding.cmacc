@@ -1,0 +1,15 @@
+// Conditions specifiques
+
+$ nouveau_Nom = "Paul"
+
+$ nouvelle_Ville = "Paris"
+
+// Liste des fichiers utilises
+
+$ template = [./ModeleDemo.cmacc]
+$ template.nom = nouveau_Nom
+$ template.ville = nouvelle_Ville
+
+// Document
+
+{{template}}

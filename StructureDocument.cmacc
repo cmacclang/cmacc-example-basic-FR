@@ -1,0 +1,15 @@
+// fichiers appeles
+
+$ intro = [./DocumentIntro.cmacc]
+
+$ description_Accord = [./DocumentAccordDescription.cmacc]
+
+$ limites_Accord = [./DocumentLimites.cmacc]
+
+// Document
+
+{{intro}}
+
+{{description_Accord}}
+
+{{limites_Accord}}

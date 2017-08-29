@@ -1,11 +1,8 @@
 // Parameters
 
-$ xnum_1erepartie = "...rentrer le numero de la section..."
-
 // Fichiers
 
 $ intro = [./1erepartie.cmacc]
-$ intro.xnum = xnum_1erepartie
 
 $ section1 = [./2emepartie.cmacc]
 

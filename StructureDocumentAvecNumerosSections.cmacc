@@ -2,16 +2,10 @@
 
 $ intro = [./DocumentIntro.cmacc]
 
-$ xnum_Description_Accord = "Section 1"
-
 $ description_Accord = [./DocumentAccordDescriptionAvecNumeroSection.cmacc]
-$ description_Accord.xnum = xnum_Description_Accord
-
-$ xnum_Limites_Accord = "Section 2"
 
 $ limites_Accord = [./DocumentLimitesAvecNumeroSection.cmacc]
-$ limites_Accord.xnum = xnum_Limites_Accord
-$ limites_Accord.xnum_Description_Projet = xnum_Description_Accord
+$ limites_Accord.reference_Description_Projet = description_Accord
 
 // Document
 

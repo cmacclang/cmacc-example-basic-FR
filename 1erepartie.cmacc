@@ -1,9 +1,7 @@
 // Parametres
 
-$ xnum = "Section xnum"
-
 // Document
 
-{{xnum}}
+Section {{#section 'x'}}
 
 ceci est le 1ere partie

@@ -10,4 +10,4 @@ deploy:
   api_key:
     secure: GmQTGTRdAHaq3qMp5xaIu+VAGiGPER9JNFEfdfYPw4KB8UrTT4fXy5VAKkSAw+lH4SJHKqK3PpjO4S2oL6foYCrfchzxqoQ/zvbWuNkzK6iIFMcpHkbbyxSyOfQQXU+k9p1tb1aVPE+Erk5vL1P7a5nQmcT6htVYHwXaIFERS40MSDgZ2ah6uSdQJIOJqjFmDoUiNBNYElBEJ7GUDBtjwdngZNac6tdUJ+MiMiZ2IDrGu17+wQYTnWtQDDECa0g0nx+JmIqLUlecm+sQdnibOuQS+XQGTUBllffVzR8cm/PamQVkG5yaefsdPINRg/Al4zCs+efE/aWl4Epc1cKD30bO3oYFTjasrgqQ8e6eIOVaRTF8s/WQ1EuuUAc8EweXn/5L5fHX6qgVu79mKu+oA4XMpSJvi/tHgSKPOG+N3vnsKsU1p62PxHOmBktWeu6nJtI/U/KzhrOL1j5mg/kM5TjjAyD7+LEoRk2GjDE5+bCu6Z3Mx+/7xzRMRa9FWhxImD7CQ0Q43vRrsZ7TtqiitNX0QMyAf9uqcmlKjAbraVfkMRvMGq1LPzUkFwCC8+bLnoWNe0GloID610tfAQrHlgKZQO35e709vvq3mgCvtd44x0+MCA/GUsaWshNCSuvhZ6RwNRTAwTJKPQKK/Fn+QFtXKUcnQ59UAYzF0wL/4as=
   on:
-  - branch: master
+    branch: master
